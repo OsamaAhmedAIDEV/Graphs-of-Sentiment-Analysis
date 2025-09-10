@@ -31,9 +31,10 @@ Detailed categorization
 🎯 Categories Chart - Clear positive/negative/neutral breakdown
 
 # 🎯 Installation & Running:
-bash# Install required packages
+```
+ Install required packages
 pip install streamlit matplotlib seaborn pandas numpy plotly
-
+```
 # Run the dashboard
 ```
 streamlit run emotion_dashboard.py
