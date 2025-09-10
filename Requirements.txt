@@ -1,0 +1,7 @@
+# Install required packages
+streamlit 
+matplotlib 
+seaborn 
+pandas 
+numpy 
+plotly
