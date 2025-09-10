@@ -1,4 +1,4 @@
-#🚀 Key Features:
+# 🚀 Key Features:
 1. Original JSON Analysis
 
 Radar Chart: Emotion profile (sabse important - ek nazar mein sab samaj aa jaye)
@@ -22,7 +22,7 @@ Enhanced histogram with statistical markers
 Cumulative distribution function
 Detailed categorization
 
-#📊 Most Relatable Graphs (Jo user ko instantly samajh aa jayein):
+# 📊 Most Relatable Graphs (Jo user ko instantly samajh aa jayein):
 
 🎭 Radar Chart - Complete emotion profile at one glance
 😊 Pie Chart - Sentiment percentages (easy to understand)
@@ -30,13 +30,15 @@ Detailed categorization
 📈 Trend Line - Score changes over time
 🎯 Categories Chart - Clear positive/negative/neutral breakdown
 
-#🎯 Installation & Running:
+# 🎯 Installation & Running:
 bash# Install required packages
 pip install streamlit matplotlib seaborn pandas numpy plotly
 
 # Run the dashboard
+```
 streamlit run emotion_dashboard.py
-💡 Key Benefits:
+```
+# 💡 Key Benefits:
 
 Interactive: User can switch between different analysis types
 Visual: All graphs are instantly understandable
